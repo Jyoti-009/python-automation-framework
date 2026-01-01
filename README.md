@@ -3,7 +3,7 @@ Pythin based automation framework using selenium, pytest and page object model f
 
 Tech Stack
 . Python
-. Seelenium WebDriver
+. Selenium WebDriver
 . Pytest
 . Page Object Model
 . Git & GitHub
